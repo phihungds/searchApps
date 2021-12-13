@@ -1,0 +1,22 @@
+* {margin: 0px; padding: 0px; box-sizing: border-box;}
+
+
+input {
+    height: 110%;
+    margin: 0px;
+    padding: 0px 10px;
+}
+button {
+   margin-top: -5px;
+}
+.output {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.img-box {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px ;
+}

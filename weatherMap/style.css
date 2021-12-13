@@ -1,0 +1,10 @@
+.print span {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.secResult {
+    display: grid;
+    grid-template-columns: 150px 150px;
+    grid-gap: 30px;
+}
